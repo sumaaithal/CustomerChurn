@@ -1,6 +1,4 @@
-## Telco Customer Churn Prediction - Plotly Dash Application
-Live on Heroku: https://cepel-customer-churn.herokuapp.com/ </br>
-
+## Customer Churn Prediction - Plotly Dash Application
 ### Description
 This dash application allows you to predict telco customer churn using machine learning algorithms (SVM, XGBoost). Developed with Python and the all codes published on GitHub. Feel free to review and download the repository. You can:
 - predict customer churn
